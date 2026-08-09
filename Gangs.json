@@ -10,14 +10,14 @@
     }
   },
 
-  "Nill": {
-    "Name": "Blacks",
+  "755862819": {
+    "Name": "Heiwa",
     "Health": 1000,
     "Itens": ["Kokusen", "FireKick", "Rinnegan", "Susanoo", "ChuteDeGelo", "Raio", "MundoTransparente", "Collateral"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 238, 0] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [255, 238, 0] }
+      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] }
     }
   },
 
