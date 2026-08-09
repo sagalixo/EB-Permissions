@@ -57,7 +57,7 @@
   "35898106": {
     "Name": "黒翼Kanto ezz黒翼",
     "Health": 1000,
-    "Itens": ["Kokusen", "FireKick", "Kirin", "Susanoo", "CloneDasSombras", "HinokamiKagura", "Raio", "Rinnegan"],
+    "Itens": ["Kokusen", "TomanKick", "Kirin", "Susanoo", "CloneDasSombras", "HinokamiKagura", "Raio", "Rinnegan"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
