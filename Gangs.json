@@ -1,8 +1,8 @@
 {
   "33046359": {
-    "Name": "Tokyo Manji Gang",
+    "Name": "Moebius",
     "Health": 1000,
-    "Itens": ["TomanKick", "Raio", "ImpulsoSombrio", "FP_Run", "CloneDasSombras", "HinokamiKagura", "Susanoo", "Rinnegan", "ChuteDeGelo"],
+    "Itens": ["TomanKick", "Raio", "CloneDasSombras", "Susanoo", "ChuteDeGelo"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
