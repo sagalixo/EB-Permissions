@@ -36,7 +36,7 @@
     },
     "gojo": {
       "Tier": 1,
-      "Permission": [],
+      "Permission": [TevinDev_740],
       "Icon": 109085672677744
     },
     "subaru": {
