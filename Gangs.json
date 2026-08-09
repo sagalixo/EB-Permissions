@@ -33,13 +33,13 @@
   },
 
   "34976153": {
-    "Name": "SoloNoCB",
+    "Name": "tung tung sahur world",
     "Health": 1000,
     "Itens": ["PisaoLuas", "Collateral", "FP_Run"],
     "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] }
+      "Nome": { "Texto": [0, 0, 0], "Borda": [0, 255, 0] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [0, 255, 0] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [0, 255, 0] }
     }
   },
 
