@@ -4,9 +4,9 @@
     "Health": 1000,
     "Itens": ["TomanKick", "Raio", "CloneDasSombras", "Susanoo", "ChuteDeGelo"],
     "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 0] }
+      "Nome": { "Texto": [0, 0, 139], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [0, 0, 139], "Borda": [255, 255, 255] },
+      "Team": { "Texto": [0, 0, 139], "Borda": [255, 255, 255] }
     }
   },
 
